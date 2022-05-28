@@ -15,4 +15,4 @@ substr(x, 3, 7)
 nchar(x)  # get length of the string
 paste("First", "Second", sep = "|")
 paste0("First", "Second")  # with no separator
-strtrim("Bad String             ", 10)
+strtrim("Bad String              ", 10)
